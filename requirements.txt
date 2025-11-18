@@ -10,5 +10,6 @@ openai
 requests
 reportlab
 Pillow
-python-multipart
+requests
+pydantic-settings
 jinja2
