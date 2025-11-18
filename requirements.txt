@@ -5,6 +5,10 @@ python-dotenv
 sqlalchemy
 psycopg2-binary
 pydantic
-openai
 pydantic-settings
+openai
 requests
+reportlab
+Pillow
+python-multipart
+jinja2
