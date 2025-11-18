@@ -13,3 +13,4 @@ Pillow
 requests
 pydantic-settings
 jinja2
+matplotlib
